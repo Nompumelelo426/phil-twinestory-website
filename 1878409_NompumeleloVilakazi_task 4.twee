@@ -1,0 +1,95 @@
+:: StoryTitle
+1878409_NompumeleloVilakazi_task 4
+
+
+:: StoryData
+{
+  "ifid": "4B931372-44FE-4203-9186-0445FB4BA71B",
+  "format": "Harlowe",
+  "format-version": "3.3.4",
+  "start": "I would do anything for Erica",
+  "zoom": 1
+}
+
+
+:: I would do anything for Erica {"position":"668,290","size":"100,100"}
+
+
+
+
+Meeting someone who makes life worth living is truly a once in a lifetime feeling that I am fortunate enough to have felt. The trajectory of my life completely changed when I met <u>Erica</u>(click: "Erica")[, the centre of my <u>universe</u>](click: "universe")[. I have not been the same Phil since. This is our [[story.]]]
+
+
+
+
+:: life. {"position":"789,891","size":"100,100"}
+
+
+
+<style> img {
+    max-width:100%;
+	max-height:100%;
+}
+
+</style>
+<img
+src= https://drive.google.com/uc?id=1_JvHztmdVJnJYVFTMy7ixCKqLobou0bm> 
+</div> 
+
+[[I would do anything for Erica]]
+
+
+:: love {"position":"788,741","size":"100,100"}
+
+
+
+A couple of months after we graduated Erica became ill. It was hard for me to <u>watch</u>(click: "watch")[ her go through that and not be able to do anything to help her. Her recovery took a while but when she did eventually recover you would have sworn she was never ill. Her life took off. Mine not so much. But I didn't mind it. I focused my energy on her and helping her succeed in any way I could. My contributions were minor though. And now we are set for [[life.]]]
+
+
+:: story. {"position":"788,441","size":"100,100"}
+
+
+
+Erica and I met in high school. She had just moved from out of state. 
+There was just something about her. She has this uncanny ability to light up a room. She made new friends almost instantly, but I was not one of them. Understandable, of course because at the time I was a bit of a loser. But then, one day she sat next to me at my designated cafeteria table next to the trash cans. She had absolutely no reason to do that. But she did. 
+
+We spoke. She spoke mostly. I was spellbound. I couldn't think. That was the day I <u>fell</u> for her(click: "fell")[ and everyday [[thereafter.]]] 
+
+
+:: thereafter. {"position":"788,591","size":"100,100"}
+
+
+
+Our college years were a bit of a doozy, on her part, I must admit. I think she still saw me as that scrawny looking, pale, pimple faced kid she had met in high school. I kept my distance, knowing that maybe one day she would find her way back to me. I was there for her through it all though. The late study nights, the douchebags, the breakups with said douchebags, the partying, the new friends. I was there for her through it all. All of her friends and lovers faded out of her life but I was <u>always there</u>(click: "always there")[ for her. I felt the need to always be there for her. It is an undying feeling that sparks a fire in my soul. If that isn't [[love]] then I don't know what is.] 
+
+
+:: StoryStylesheet [stylesheet]
+tw-passage {
+   font-family: sylfaen;
+}
+
+
+tw-link {
+color: yellow;
+}
+
+.enchantment-link: hover,
+tw-link: hover {
+color: white;
+}
+
+tw-link:hover, .enchantment-link:hover {
+    color: white;
+}
+
+
+
+
+tw-passage {
+   text-align: center;
+}
+
+.beginning {
+  
+  font-size: 50%;
+}
